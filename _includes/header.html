@@ -1,0 +1,400 @@
+<header class="site-header">
+
+<h1 class="sr-only">Code for Resilience</h1>
+
+  <nav id="header" class="header-navbar" role="navigation">
+
+    <div class="header-navbar-inner container">
+
+      <div id="brand" class="navbar-brand">
+        <a href="/index.html" rel="bookmark">
+
+          <!-- to disable lazy loading, remove data-src and data-src-retina -->
+          <img src="../img/logo.png" data-src="../img/logo.png" data-src-retina="../img/logo-retina.png" width="190" height="70" alt="">
+
+          <!--fallback for no javascript browsers-->
+          <noscript>
+            <img src="../img/logo.png" alt="">
+          </noscript>
+        </a>
+      </div>
+
+      <div class="header-byline">
+        <h4>Bridging communities for disaster resilience</h4>
+      </div>
+
+      <ul class="nav nav-pages hidden-xs">
+        <li {% if page.title == 'Home' %} class="active" {% endif %}><a href="/index.html">Home</a></li>
+        <li {% if page.title == 'About' %} class="active" {% endif %}><a href="/about/">About</a></li>
+        <li {% if page.title == 'Contact' %} class="active" {% endif %}><a href="/contact/">Contact </a></li>
+        <li {% if page.title == 'Blog' %} class="active" {% endif %}><a href="/blog/">Blog</a></li>
+      </ul>
+
+      <ul class="nav nav-icons">
+        <li>
+          <a href="#" class="btn-icon" data-toggle=".header-navbar-inner" data-toggle-class="search-toggled-in">
+            <span class="search-toggled-out-icon glyphicon glyphicon-search"></span>
+            <span class="search-toggled-in-icon glyphicon glyphicon-remove"></span>
+          </a>
+        </li>
+      </ul>
+
+      <div class="search-wrapper js-stoppropagation">
+        <div class="search-wrapper-inner">
+          <form>
+            <input type="text" value="" placeholder="search ... ">
+            <button class="btn-icon" type="submit"><span class="glyphicon glyphicon-search"></span></button>
+          </form>
+        </div>
+      </div>
+
+      <ul class="nav navbar-nav">
+        <li class="nav-all pull-right full-subnav-wrapper">
+
+          <a href="#" data-toggle="li">
+            <span class="text">All Categories</span>
+            <span class="toggle glyphicon glyphicon-align-justify"></span>
+          </a>
+
+          <div class="row subnav-wrapper">
+
+            <div class="col-md-2 col-sm-2 bg-bar">
+              <strong class="subnav-header">Home</strong>
+              <ul class="subnav-full">
+                <li><a href="blog.html">About C4R</a></li>
+                <li><a href="blog-grids.html">Blog</a></li>
+                <li><a href="reviews.html">Projects</a></li>
+                <li><a href="single.html">Cities Map</a></li>
+                <li><a href="reviews.html">Contact</a></li>
+              </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-2">
+              <strong class="subnav-header">Problem Categories</strong>
+              <ul class="subnav-full">
+                <li><a href="banner-index.html">Risk Identification</a></li>
+                <li><a href="banner-single.html">Risk Reduction</a></li>
+                <li><a href="#">Preparedness </a></li>
+                <li><a href="#">Financial Protection</a></li>
+                <li><a href="#">Resilient Reconstruction</a></li>
+              </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-2">
+              <strong class="subnav-header">Featured Projects</strong>
+              <ul class="subnav-full">
+                <li><a href="../html/">Rehnuma</a></li>
+                <li><a href="../html-dark/">Messiah</a></li>
+                <li><a href="../html-light/">Heartbeat</a></li>
+                <li><a href="#">SIK Navigator (HoaTieu) </a></li>
+                <li><a href="#">JakSafe</a></li>
+              </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-2">
+              <strong class="subnav-header">Cities</strong>
+              <ul class="subnav-full">
+                <li><a href="#">Port-au-Prince </a></li>
+                <li><a href="#">Jakarta</a></li>
+                <li><a href="#">Colombo</a></li>
+                <li><a href="#">Dodoma </a></li>
+              </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-2">
+              <strong class="subnav-header">Participate</strong>
+              <ul class="subnav-full">
+                <li><a href="#">Become a Mentor </a></li>
+                <li><a href="#">Join Coders</a></li>
+                <li><a href="#">Help Support </a></li>
+                <li><a href="#">Host Events</a></li>
+                <li><a href="#">Partner with Us</a></li>
+              </ul>
+            </div>
+
+            <div class="col-md-2 col-sm-2">
+              <strong class="subnav-header">Resources</strong>
+              <ul class="subnav-full">
+                <li><a href="#">GFDRR </a></li>
+                <li><a href="#">Resilience Resources</a></li>
+                <li><a href="#">Understanding Risk</a></li>
+                <li><a href="#">More Resources </a></li>
+              </ul>
+            </div>
+
+          </div>
+        </li>
+        <li class="active">
+          <a href="#overview" data-toggle="li">Overview</a>
+        </li>
+        <li class="full-subnav-wrapper">
+          <a href="#projects" data-toggle="li">Projects</a>
+
+          <div class="row subnav-wrapper subnav-tabbed">
+
+            <ul class="col-md-2 col-sm-2 subnav-tabbed-tabs alignright">
+
+              <li class="active"><a href="#tabAll">All </a></li>
+              <li><a href="#tabNotebook">2014</a></li>
+              <li><a href="#tabSmartphone">2015</a></li>
+
+            </ul>
+
+            <div class="col-md-10 col-sm-10 subnav-tabbed-panels">
+
+              <div id="tabAll" class="subnav-tabbed-panel active">
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                        <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+              </div>
+              <div id="tabNotebook" class="subnav-tabbed-panel">
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+
+                </article>
+
+              </div>
+              <div id="tabSmartphone" class="subnav-tabbed-panel">
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+                <article class="entry type-post style-thumbnail col-sm-3 col-md-3">
+
+                  <figure class="entry-thumbnail">
+                    <a href="single.html">
+                      <!-- to disable lazy loading, remove data-src and data-src-retina -->
+                      <img src="../img/placeholder.gif" data-src="http://placehold.it/230x230" data-src-retina="http://placehold.it/460x460" width="230" height="230" alt="">
+
+                      <!--fallback for no javascript browsers-->
+                      <noscript>
+                        <img src="http://placehold.it/230x230" alt="">
+                      </noscript>
+                    </a>
+                  </figure>
+
+                  <h3 class="entry-title"><a href="single.html">Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</a> </h3>
+
+                </article>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </li>
+        <li>
+          <a href="#problems" data-toggle="li">Problems</a>
+
+          <div class="subnav-wrapper">
+            <ul class="subnav-entries">
+              <li><a href="#">Jakarta Flood Alert </a></li>
+              <li><a href="#">Rain induced debris flow risk identification tool </a></li>
+              <li><a href="#">Tool to help Civil Protection better prepare local communes for natural disasters </a></li>
+              <li><a href="#">Digitization of housing surveys for disaster relief </a></li>
+              <li><a href="#">More Problem Statements </a></li>
+            </ul>
+          </div>
+
+        </li>
+        <li><a href="#cities">Cities</a></li>
+        <li><a href="#">Participate</a></li>
+      </ul>
+
+    </div>
+
+  </nav>
+
+</header>

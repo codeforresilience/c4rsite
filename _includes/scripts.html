@@ -1,0 +1,152 @@
+<script src="../vendor/jquery-1.10.1.min.js"></script>
+  <!--
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../vendor/jquery-1.10.1.min.js"><\/script>')</script>
+-->
+
+  <script src="../vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  <script src="../vendor/prettyPhoto/jquery.prettyPhoto.js"></script>
+
+  <script src="../vendor/jquery.unveil.min.js"></script>
+
+  <script src="../js/main.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/ol3/3.4.0/ol.min.js"></script>
+
+  <script>
+
+      var map = new ol.Map({
+        interactions : ol.interaction.defaults({doubleClickZoom :false, dragPan: false}),
+        layers: [
+          new ol.layer.Tile({
+            source: new ol.source.Stamen({
+              layer: 'toner-background'
+            })
+          })
+        ],
+        renderer: 'canvas',
+        target: 'map',
+        view: new ol.View({
+          center: ol.proj.transform([80, 18], 'EPSG:4326',
+           'EPSG:3857'),
+          zoom: 2,
+          maxZoom: 2,
+          minZoom: 2
+        }),
+        controls: []
+      });
+
+      var iconFeatures = [
+        new ol.Feature({
+          geometry: new ol.geom.Point(ol.proj.transform([-72.2844278,18.5790371], 'EPSG:4326',
+           'EPSG:3857')),
+          name: 'Haiti',
+          title: 'Real-time decision-making capability',
+          description: 'Haiti is highly exposed to multiple natural hazards and 96% of its population lives at risk. The 7.0 magnitude earthquake that hit Haiti in January 2010 killed up to 230,000 people, and caused an estimated US$8 billion in damages and losses. To prepare for natural disasters Haiti must have  relevant data available for prompt assessments and response.<br/><br/>Much of Haiti’s disaster risk data, however, is available only in hard copy, making it difficult for the Department of Civil Protection to produce reports to support rapid decision-making in disaster situations. Coders prototyped a workflow that will digitize the processes.'
+        }),
+        new ol.Feature({
+          geometry: new ol.geom.Point(ol.proj.transform([37.3314474,-6.4274148], 'EPSG:4326',
+           'EPSG:3857')),
+          name: 'Tanzania',
+          description: 'Tanzania Description'
+        }),
+        new ol.Feature({
+          geometry: new ol.geom.Point(ol.proj.transform([80.7003428, 7.8772157], 'EPSG:4326',
+           'EPSG:3857')),
+          name: 'Sri Lanka',
+          description: 'Sri Lanka Panel Project Description'
+        }),
+        new ol.Feature({
+          geometry: new ol.geom.Point(ol.proj.transform([106.829518,-6.2297465], 'EPSG:4326',
+           'EPSG:3857')),
+          name: 'Indonesia',
+          description: 'With a population of more than 8.5 million, Jakarta is a megacity regularly inundated by flooding. To assess impacts post-flood, Damage and Loss Assessments (DaLA) are carried out, which, ideally, are automated. In Jakarta, however, data collection is done manually.<br/><br/>Jakarta InaSAFE: The idea behind this tool is to combine functionalities from <a href="http://inasafe.org">InaSAFE</a> with different systems used by Jakarta’s Disaster Management Agency (BPBD) to automate damage and loss assessment reports for Jakarta. Further technical development of Jakarta InaSAFE continues.'
+        })
+      ];
+
+      iconFeatures.forEach(function(iFeat) {
+          iFeat.setStyle(new ol.style.Style({
+          geometry: iFeat.getGeometry(),
+          image: new ol.style.Icon(({
+            anchor: [0.5, 28],
+            anchorXUnits: 'fraction',
+            anchorYUnits: 'pixels',
+            src: '../img/icon.png'
+          }))
+        })
+      )});
+
+      var vectorSource = new ol.source.Vector({
+        features: iconFeatures,
+        projection: 'EPSG:3857'
+      });
+
+      var vectorLayer = new ol.layer.Vector({
+        source: vectorSource
+      });
+
+      map.addLayer(vectorLayer);
+
+      var element = document.getElementById('popup');
+
+      var popup = new ol.Overlay({
+        element: element,
+        positioning: 'bottom-center',
+        stopEvent: false,
+        offset: [0,-13],
+        style: new ol.style.Style({
+          text: new ol.style.Text({
+            font: '12px Calibri,sans-serif'
+          })
+        })
+      });
+      map.addOverlay(popup);
+
+      var original, first_time = true;
+
+      // display popup on click
+      map.on('click', function(evt) {
+        var element = popup.getElement();
+        var feature = map.forEachFeatureAtPixel(evt.pixel,
+            function(feature, layer) {
+              return feature;
+            });
+        if (first_time) {
+          original = $('#locations').html();
+          first_time = !first_time;
+        }
+        if (feature) {
+          var geometry = feature.getGeometry();
+          var coord = geometry.getCoordinates();
+          popup.setPosition(coord);
+          var hdms = ol.coordinate.toStringHDMS(ol.proj.transform(
+             coord, 'EPSG:3857', 'EPSG:4326'));
+          $(element).popover('destroy');
+          popup.setPosition(coord);
+          $(element).popover({
+            'placement': 'top',
+            'html': true,
+            'animation': false,
+            'content': '<strong>' + feature.get('name') + '</strong>',
+          });
+          $(element).popover('show');
+
+          // Map info panel
+          if (first_time) {
+            original = $('#locations').html();
+            first_time = !first_time;
+          }
+          var infoPanel = '<h3>' + feature.get('name') + '</h3>' +
+          '<h4>' + feature.get('title') + '</h4>' +
+          '<p>' + feature.get('description') +'</p>';
+          $('#locations').html(infoPanel);
+
+
+        } else {
+          $(element).popover('destroy');
+          $('#locations').html(original);
+
+        }
+      });
+  </script>
