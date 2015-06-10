@@ -1,4 +1,6 @@
 ---
 layout: default
-title: Blog
+title: Blog 
 ---
+
+Blog
