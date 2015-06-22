@@ -195,7 +195,7 @@ a.anchor {
   background-color: #0d1318;
 }
 .header-navbar .header-byline {
-  color: #9f9f9f;
+  color: #000000;
 }
 @media (max-width: 768px) {
   .header-navbar .header-byline {
