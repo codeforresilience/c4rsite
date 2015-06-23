@@ -584,16 +584,6 @@ ul.entries {
   width: 120%;
   max-width: 120%;
   margin-left: -10%;
-  -webkit-transition: all 0.2s linear;
-  -moz-transition: all 0.2s linear;
-  -ms-transition: all 0.2s linear;
-  -o-transition: all 0.2s linear;
-}
-.style-grid:hover .entry-thumbnail img {
-  -webkit-transform: scale(1.1, 1.1);
-  -moz-transform: scale(1.1, 1.1);
-  -ms-transform: scale(1.1, 1.1);
-  -o-transform: scale(1.1, 1.1);
 }
 .style-grid .entry-meta {
   margin-bottom: 0px;
@@ -615,9 +605,6 @@ ul.entries {
 .style-hero .entry-title {
   margin-top: 70px;
   margin-bottom: 8px;
-}
-.style-hero .entry-title a {
-  display: block;
 }
 .style-hero .entry-title a:hover {
   text-decoration: none;
