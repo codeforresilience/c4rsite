@@ -188,7 +188,7 @@ a {
 	}
 
 	.header-byline {
-		color: @link_secondary;
+		color: @byline;
 
 		@media (max-width: @screen-sm) {
 			display: none;
@@ -315,8 +315,7 @@ a {
 		& > a,
 		& > span,
 		& > .ribbon-inner  {
-			background-color: @highlight;
-			color: @highlight_text;
+			color: darken(@highlight_text, 40%);
 		}
 
 		& > a:hover {
@@ -437,7 +436,7 @@ a {
 
 .style-grid {
 
-	background-color: @primary;
+  background-color: transparent;
 
 	.entry-header {
 		color: @light_color;
@@ -449,10 +448,13 @@ a {
 		}
 		.entry-title {
 			a {
-				color: @light_color;
+				color: @byline;
+        background: @hero_mask;
+        font-weight: bold;
+        padding: 2px;
 			}
 			a:hover {
-				color: @light_color;
+				color: lighten(@byline, 20%);
 			}
 		}
 		&.entry-mission {
