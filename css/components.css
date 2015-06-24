@@ -1504,10 +1504,21 @@ a.pp_contract {
   z-index: 100;
   width: 30%;
   height: 500px;
+  top: 53px;
   left: 70%;
   -webkit-box-shadow: inset 2px 4px 10px 5px rgba(0, 0, 0, 0.25);
   -moz-box-shadow: inset 2px 4px 10px 5px rgba(0, 0, 0, 0.25);
   box-shadow: inset 2px 4px 10px 5px rgba(0, 0, 0, 0.25);
+}
+@media (max-width: 1200px) {
+  #map-section .entry-header {
+    position: relative;
+    width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    margin-bottom: 0;
+  }
 }
 #map-section .entry-header.map-header {
   padding: 10px 15px;
