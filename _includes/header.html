@@ -21,12 +21,7 @@
         <h4>Bridging communities for disaster resilience</h4>
       </div>
 
-      <ul class="nav nav-pages hidden-xs">
-        <li {% if page.title == 'Home' %} class="active" {% endif %}><a href="{{site.baseurl}}/">Home</a></li>
-        <li {% if page.title == 'About' %} class="active" {% endif %}><a href="{{site.baseurl}}/about/">About</a></li>
-        <li {% if page.title == 'Contact' %} class="active" {% endif %}><a href="{{site.baseurl}}/contact/">Contact </a></li>
-        <li {% if page.title == 'Blog' %} class="active" {% endif %}><a href="{{site.baseurl}}/blog/">Blog</a></li>
-      </ul>
+      <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu"><i class="glyphicon glyphicon-align-justify"></i></a>
 
       <ul class="nav nav-icons">
         <li>
@@ -45,6 +40,12 @@
           </form>
         </div>
       </div>
+      <ul id="js-navigation-menu" class="nav nav-pages">
+        <li {% if page.title == 'Home' %} class="active" {% endif %}><a href="{{site.baseurl}}/">Home</a></li>
+        <li {% if page.title == 'About' %} class="active" {% endif %}><a href="{{site.baseurl}}/about/">About</a></li>
+        <li {% if page.title == 'Contact' %} class="active" {% endif %}><a href="{{site.baseurl}}/contact/">Contact </a></li>
+        <li {% if page.title == 'Blog' %} class="active" {% endif %}><a href="{{site.baseurl}}/blog/">Blog</a></li>
+      </ul>
 
       <ul class="nav navbar-nav">
         <li class="nav-all pull-right full-subnav-wrapper">
