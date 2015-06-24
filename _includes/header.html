@@ -121,10 +121,7 @@
             </div -->
 
           </div>
-        </li>
-        <li class="active">
-          <a href="{{site.baseurl}}/#overview" data-toggle="li">Overview</a>
-        </li>
+        <li {% if page.title == 'Home' %} class="active" {% endif %}><a href="{{site.baseurl}}/#overview" data-toggle="li">Overview</a></li>
 
         <!---
         {% include projects_carousel.html %}
@@ -144,10 +141,9 @@
           </div>
 
         </li -->
-        <li><a href="{{site.baseurl}}/cities/">Cities</a></li>
-        <li><a href="{{site.baseurl}}/participate/">Participate</a></li>
+        <li {% if page.url == '/cities/index.html' %} class="active" {% endif %}><a href="{{site.baseurl}}/cities/">Cities</a></li>
+        <li {% if page.url == '/participate/index.html' %} class="active" {% endif %}><a href="{{site.baseurl}}/participate/">Participate</a></li>
       </ul>
-
     </div>
 
   </nav>
