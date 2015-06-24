@@ -1457,8 +1457,17 @@ a.pp_expand, a.pp_contract {
 		z-index: 100;
 		width: 30%;
 		height: @map-height;
+    top: 53px;
 		left: 70%;
 		.box-shadow(inset 2px 4px 10px 5px rgba(0,0,0,0.25));
+		@media (max-width: @screen-lg) {
+      position: relative;
+      width: 100%;
+      height: auto;
+      top:0;
+      left: 0;
+      margin-bottom: 0
+    }
 		&.map-header {
 			padding: 10px 15px;
 
