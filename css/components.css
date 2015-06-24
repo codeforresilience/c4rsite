@@ -511,6 +511,13 @@ ul.entries {
 .style-single > .entry-content {
   margin-bottom: 30px;
 }
+.style-single .entry-content-wrapper:after {
+  content: ".";
+  clear: both;
+  display: block;
+  visibility: hidden;
+  height: 0px;
+}
 .style-single h1,
 .style-single h2,
 .style-single h3 {
