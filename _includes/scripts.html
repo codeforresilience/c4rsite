@@ -17,7 +17,7 @@
   <script>
 
       var map = new ol.Map({
-        interactions : ol.interaction.defaults({doubleClickZoom :false, dragPan: false}),
+        interactions : ol.interaction.defaults({mouseWheelZoom: false, doubleClickZoom :false, dragPan: false}),
         layers: [
           new ol.layer.Tile({
             source: new ol.source.Stamen({
