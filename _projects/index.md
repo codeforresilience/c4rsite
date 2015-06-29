@@ -10,13 +10,10 @@ Projects
 ----
 
 <ul>
-  {% for post in site.projects %}
-    <li>
-      <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
+<li><a href='{{site.baseurl}}/projects/haiti'>Haiti</a>
+<li><a href='{{site.baseurl}}/projects/indonesiapdf'>Indonesia</a>
 </ul>
+
 
 2014
 ----
