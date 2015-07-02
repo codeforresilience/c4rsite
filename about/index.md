@@ -8,13 +8,13 @@ Activities
 
 Code for Resilience identifies country partners that are willing to commit financial and technical resources to co-invest in developing capacity, community, and tools that leverage innovations in technology to strengthen community resilience to natural disasters. Code for Resilience activities include:
 
-* Identifying Problem Statements: Code for Resilience draws on the experience and needs of the public sector, private sector, international organizations including the World Bank Group, and affected communities to generate a list of challenges related to disaster risk assessment and identification, disaster risk reduction, and disaster preparedness.
- 
+* Identifying Problem Statements: Code for Resilience draws on the experience and needs of the public sector, private sector, international organizations including the World Bank Group, and affected communities to generate a list of technical challenges related to disaster risk assessment and identification, disaster risk reduction, and disaster preparedness.
+
 * Building Capacity: Code for Resilience complements its partners’ existing programs and expertise by providing tailored training as needed on the use of open source tools and open data to address disaster risk management problem statements. 
 
-* Coding for Resilience:  If existing tools must be adapted or new tools are needed to meet locally identified problem statement, Code for Resilience will provide financial and technical support to organize code sprints in collaboration with local partners. Code sprints typically are held over two to three days, and encourage adaptation and use of open source technologies, open data, open standards, and open platforms.  
+* Investing in Expertise: Code for Resilience fellows are selected to refine technology-based solutions to local disaster risk management challenges. During a period of at least three months, fellows receive financial and technical support to further develop, test, and refine solutions in collaboration with local partners. 
 
-* Investing in Expertise: Code for Resilience fellows are selected through these activities to refine technology-based solutions to local disaster risk management challenges. During a period of at least three months, fellows receive financial and technical support to further develop, test, and refine solutions in collaboration with local partners. 
+* Coding for Resilience: If existing tools must be adapted or new tools are needed to meet locally identified problem statement, Code for Resilience provides financial and technical support to organize code sprints in collaboration with local partners. Code sprints typically are held over two to three days, build connections between disaster risk management experts and local technology communities, and encourage the use of open source technologies, open data, open standards, and open platforms.  
  
 * Evaluating Delivery Against Problem Statements: To inform future efforts, partners and participants are asked to provide feedback on the process and outputs. Evaluations are carried after each code sprint, and additional feedback is welcomed throughout the Code for Resilience engagement.  
 
