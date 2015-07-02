@@ -6,27 +6,25 @@ title: About
 About Code for Resilience
 =========================
 
-In the first decade of the 21st century, natural disasters affected the lives of over two billion people—more than a quarter of the world’s population. The impact of these disasters set the global economy back by nearly US$1 trillion.
+In the first decade of the 21st century, natural disasters affected the lives of over two billion people—more than a quarter of the world’s population. The impact of these disasters disproportionally affected vulnerable communities, and together set the global economy back by nearly US$1 trillion.
  
-Code for Resilience, a multi-year project of the World Bank’s Global Facility for Disaster Reduction and Recovery (GFDRR) in collaboration with wide ranging global partners from the public, private, community, and the civic tech field aims to strengthen communities’ resilience to natural disasters through innovative uses of information and communication technologies (ICTs).
- 
-Through a series of virtual and in-person activities, Code For Resilience focuses on creating locally relevant software and hardware tools that address disaster risk management challenges. The resulting “civic technologies”—or ICT-based tools built by, with, and for local communities—are designed to improve communities’ ability to identify and reduce natural disaster risks, and to better prepare for and respond to major natural disasters.
+Code for Resilience strengthens the resilience of at-risk communities to natural disasters through innovative uses of information and communication technologies. Through trainings, code sprints, and fellowships, Code for Resilience works in partnership with local actors to build capacity and refine tools that improve local disaster risk management.
+
+Launched in 2014, Code for Resilience is a multi-year project of the World Bank’s Global Facility for Disaster Reduction and Recovery. In its first year, Code for Resilience engaged over 1,000 technologists across eleven code sprint events in eight countries. In 2015 Code for Resilience is increasing its focus on building the capacity of individuals trained in both technology and disaster risk management through the introduction of the Code for Resilience fellowship program.
+
+Find a list of civic technology tools developed by and with local commutnies here. Find a map of past and future Code for Resilience events here.
 
 Activities
 ==========
 
-Since 2014 Code for Resilience has connected civil society, governments, and technologists through events, mentorship, and code sprint activities. In 2014 Code for Resilience engaged over 1,000 technologists in eleven code sprint events across eight countries. In 2015 Code for Resilience is increasing its focus on building the capacity of individuals trained in both technology and disaster risk management through the introduction of the Code for Resilience fellowship program. 
+Code for Resilience identifies country partners that are willing to commit financial and technical resources to co-invest in developing capacity, community, and tools that leverage innovations in technology to strengthen community resilience to natural disasters. Where Code for Resilience offers:
 
-Specifically, the program is organized into the following phases:
+* Identifying Problem Statement: Code for Resilience draws on the experience and needs of the public sector, private sector, the World Bank Group, the public, and other international partners to generate a list of challenges related to disaster risk assessment and identification, disaster risk reduction, and disaster preparedness.
  
-1.  Problem Statement Definitions: Code for Resilience draws on the experience and needs of the public sector, private sector, the World Bank Group, the public and other international partners to generate a list of DRM challenges. Problem statements from the ex ante portion of the DRM cycle (risk assessment & identification, risk reduction, and preparedness) are prioritized.
- 
-2.  Participants trainings: CfR leverages our global partners’ expertise and existing programs to provide tailored training opportunities for participants, as needed, on the use of open source tools and open data for DRM that address the problem statements. 
+* Building Capacity: Code for Resilience complements its partners’ existing programs and expertise by providing tailored training as needed on the use of open source tools and open data to address disaster risk management problem statements. 
 
-3.  Code sprints:  Once the problem statements are clearly defined, end user and stakeholder buy-in is secured, and relevant training are provided, selected participants gather to carry out Code Sprints that continue for 48-72 hours to develop a prototype solution. These solutions can range from mobile, geospatial, gamification, to data, social, and hardware tools that provide innovative DRM solutions. Teams that participate in these code sprints often consist of software developers, project managers, user interface developers, and designers.
-Check our Project Locations to see if CfR is coming to your town and to participate in the next Code Sprint. 
+* Coding for Resilience:  Once problem statements are clearly identified, if a review identifies that existing tools must be adapted to meet local needs, Code for Resilience will provide financial and technical support to organize code sprints in collaboration with local partners. Code sprints typically are held over two to three days to tailor existing solutions or, if necessary, prototype a new solution. 
 
-4.  CfR Fellowship Program: Following the code sprints, selected participants will continue to develop the prototype solution for a period of at least three months through CfR Fellowship program. During this time, participants will have the opportunity to work and receive expert advice from CfR partners and experts in the fields of DRM, business, and ICT to further develop, test, and refine their apps, to turn them into minimum viable products (MVPs).
+* Investing in Expertise: Code for Resilience fellows are selected through these activities to refine technology-based solutions to local disaster risk management challenges. During a period of at least three months, fellows receive financial and technical support to further develop, test, and refine solutions in collaboration with local partners. 
  
-5.  Evaluation and Review: Participants and partners will have the opportunity to provide feedback on the program and processes to improve program delivery.
-Evaluations are carried out after each event, but if you have participated in any of our events and would like to provide direct additional feedback or stay in touch, please contact us. 
+* Evaluating Delivery Against Problem Statement: To inform future efforts, partners and participants are asked to provide feedback on the process and outputs. Evaluations are carried after each code sprint, and additional feedback is welcomed throughout the Code for Resilience engagement. 
