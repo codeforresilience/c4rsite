@@ -3,7 +3,7 @@ layout: default
 title: About 
 ---
 
-How to Code for Resilience
+Activities
 ==========
 
 Code for Resilience identifies country partners that are willing to commit financial and technical resources to co-invest in developing capacity, community, and tools that leverage innovations in technology to strengthen community resilience to natural disasters. Code for Resilience activities include:
@@ -18,7 +18,7 @@ Code for Resilience identifies country partners that are willing to commit finan
  
 * Evaluating Delivery Against Problem Statements: To inform future efforts, partners and participants are asked to provide feedback on the process and outputs. Evaluations are carried after each code sprint, and additional feedback is welcomed throughout the Code for Resilience engagement.  
 
-Why Code for Resilience
+Background
 =========================
 
 In the first decade of the 21st century, natural disasters affected the lives of over two billion people—more than a quarter of the world’s population. The impact of these disasters disproportionally affected vulnerable communities, and together set the global economy back by nearly US$1 trillion.
