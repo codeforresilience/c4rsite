@@ -27,4 +27,4 @@ Code for Resilience strengthens the resilience of at-risk communities to natural
 
 Launched in 2014, Code for Resilience is a multi-year project of the World Bank’s Global Facility for Disaster Reduction and Recovery. In its first year, Code for Resilience engaged over 1,000 technologists across eleven code sprint events in eight countries. In 2015 Code for Resilience is increasing its focus on building the capacity of individuals trained in both technology and disaster risk management through the introduction of the Code for Resilience fellowship program.
 
-Find a list of civic technology tools developed by and with local commutnies here. Find a map of past and future Code for Resilience events here.
+Find a list of civic technology tools developed by and for local communities here. Find a map of past and future Code for Resilience events here.
