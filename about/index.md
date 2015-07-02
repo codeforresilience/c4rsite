@@ -6,13 +6,11 @@ title: About
 About Code for Resilience
 =========================
 
-In the first decade of the 21st century, natural disasters affected the lives of over two billion people—more than a quarter of the world’s population.  The impact of these disasters set the global economy back by nearly US$1 trillion.
+In the first decade of the 21st century, natural disasters affected the lives of over two billion people—more than a quarter of the world’s population. The impact of these disasters set the global economy back by nearly US$1 trillion.
  
-In recent years public and private sector actors have started numerous partnership with the tech community to spur civic engagement and collaboratively develop software or hardware tools that can improve communities’ resilience to natural disasters. These initiatives often use open data sets and open source software to link stakeholders and provide the tools to collect, analyze, share, and improve risk data for better decision-making. 
+Code for Resilience, a multi-year project of the World Bank’s Global Facility for Disaster Reduction and Recovery (GFDRR) in collaboration with wide ranging global partners from the public, private, community, and the civic tech field aims to strengthen communities’ resilience to natural disasters through innovative uses of information and communication technologies (ICTs).
  
-Code for Resilience (CfR), a multi-year project of the World Bank’s Global Facility for Disaster Reduction and Recovery (GFDRR) in collaboration with wide ranging global partners from the public, private, community, and the civic tech field aims at building communities’ resilience to natural disasters through innovative uses of information and communication technologies (ICTs).
- 
-Through a series of virtual and in-person activities, Code For Resilience focuses on creating locally relevant software and hardware tools that address disaster risk management (DRM) challenges. The resulting “civic technologies”—or ICT-based tools built by, with, and for local communities—will help improve communities’ ability to identify and reduce natural disaster risks, and to better prepare for and respond to major natural disasters.
+Through a series of virtual and in-person activities, Code For Resilience focuses on creating locally relevant software and hardware tools that address disaster risk management challenges. The resulting “civic technologies”—or ICT-based tools built by, with, and for local communities—are designed to improve communities’ ability to identify and reduce natural disaster risks, and to better prepare for and respond to major natural disasters.
 
 Activities
 ==========
