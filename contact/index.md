@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Contact 
+title: Contact
+banner_img: frontpage-photo.jpg
 ---
 
 Contact the Code for Resilience Team
