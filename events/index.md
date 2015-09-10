@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Events
+banner_img: header-home.png
 ---
 
 Events

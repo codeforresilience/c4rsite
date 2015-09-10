@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jakarta
+banner_img: header-home.png
 ---
 
 Jakarta, Indonesia

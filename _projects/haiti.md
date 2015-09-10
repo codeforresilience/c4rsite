@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Port Au Prince Haiti 
+title: Port Au Prince Haiti
+banner_img: header-home.png
 ---
 
 Haiti 2015

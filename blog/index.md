@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+banner_img: header-home.png
 ---
 
 Code for Resilience Blog

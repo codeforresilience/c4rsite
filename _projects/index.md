@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Projects 
+title: Projects
+banner_img: header-home.png
 ---
 
 Projects
