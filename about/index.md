@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-banner_img: c4r_tools.png
+banner_img: about-header.png
 ---
 
 Activities
