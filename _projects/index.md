@@ -12,7 +12,7 @@ Projects
 
 <ul>
 <li><a href='{{site.baseurl}}/projects/haiti'>Haiti</a></li>
-<li><a href='{{site.baseurl}}/projects/indonesiapdf'>Indonesia</a></li>
+<li><a href='{{site.baseurl}}/projects/indonesia'>Indonesia</a></li>
 </ul>
 
 
