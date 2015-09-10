@@ -1,6 +1,6 @@
 <script src="{{site.baseurl}}/vendor/jquery-1.10.1.min.js"></script>
   <!--
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script src={{site.baseurl}}/ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="{{site.baseurl}}/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 -->
 
@@ -126,7 +126,7 @@
 
       var original, first_time = true;
 
-      // display popup on click
+     {{site.baseurl}}/ display popup on click
       map.on('click', function(evt) {
         var element = popup.getElement();
         var feature = map.forEachFeatureAtPixel(evt.pixel,
@@ -153,7 +153,7 @@
           });
           $(element).popover('show');
 
-          // Map info panel
+         {{site.baseurl}}/ Map info panel
           if (first_time) {
             original = $('#locations').html();
             first_time = !first_time;
