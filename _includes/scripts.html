@@ -126,7 +126,7 @@
 
       var original, first_time = true;
 
-     {{site.baseurl}}/ display popup on click
+     // display popup on click
       map.on('click', function(evt) {
         var element = popup.getElement();
         var feature = map.forEachFeatureAtPixel(evt.pixel,
@@ -153,7 +153,7 @@
           });
           $(element).popover('show');
 
-         {{site.baseurl}}/ Map info panel
+         // Map info panel
           if (first_time) {
             original = $('#locations').html();
             first_time = !first_time;
