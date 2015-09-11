@@ -50,8 +50,8 @@ body {
 }
 body {
   font-family: 'Roboto Condensed', sans-serif;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 16px;
+  line-height: 1.7em;
 }
 .aligncenter {
   text-align: center;
@@ -877,7 +877,7 @@ body.scrolled .header-navbar .header-byline {
   }
   .colheight-sm-2,
   .colheight-md-2 {
-    height: 400px;
+    height: 300px; /*400*/
   }
   .colheight-sm-3,
   .colheight-md-3 {

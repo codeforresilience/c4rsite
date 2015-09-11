@@ -229,7 +229,7 @@
 #banner {
   padding-top: 164px;
   overflow: hidden;
-  height: 400px;
+  height: auto;
 }
 #banner img {
   min-width: 100%;
@@ -336,6 +336,25 @@ blockquote.pulled-left {
 }
 .table {
   margin-bottom: 20px;
+}
+#contact-form table {
+  margin-top: 23px;
+  width: 100%;
+}
+#contact-form tr > td {
+  text-align: right;
+  padding-right: 13px;
+}
+#contact-form td input, textarea   {
+  width: 100%;
+  background-color:#e9edef;
+  border-color:#bccad3;
+  border-left-style: solid;
+  border-top-style: solid;
+}
+#contact-form button {
+  margin: 13px;
+  float: right;
 }
 .icon-2x {
   position: relative;
@@ -618,7 +637,7 @@ ul.entries {
 #main #mission p {
   font-size: 1.250em;;
 }
-#main #about h2 {
+#main #about h2, h3 {
   color:#2fabe7;
 }
 #main #about article p:first-of-type {
@@ -1539,7 +1558,7 @@ a.pp_contract {
  * 15. Map
  */
 #map-section {
-  padding: 0 0 93px 0;
+  padding: 0;
 }
 #map-section .ribbon.ribbon-highlight {
   margin: 0 0 0 -5px;
