@@ -650,7 +650,7 @@ body.scrolled .header-navbar .header-byline {
  */
 .footer-area {
   background-color: #ffcc00;
-  padding-top: 25px;
+  padding-top: 17px;
   font-size: 13px;
   text-align: center;
 }
@@ -676,7 +676,7 @@ body.scrolled .header-navbar .header-byline {
   border-bottom: 1px solid #ccc;
 }
 .footer-area .footer-top {
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .footer-area .footer-bottom {
   border-top: 1px solid transparent;
@@ -688,7 +688,7 @@ body.scrolled .header-navbar .header-byline {
   margin-bottom: 10px;
 }
 .footer-area #logos img {
-  padding: 30px 10px;
+  padding: 20px 10px 0px 10px;
 }
 /**************************************************************************
  * 9. Responsive
