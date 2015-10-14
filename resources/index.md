@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resources 
-banner_img: resources-header.png
+banner_img: https://www.gfdrr.org/sites/default/files/c4rhaiticover.jpg 
 ---
 
 Resources

@@ -2,12 +2,11 @@
 layout: default
 title:  "reducing-disaster-risk-through-hydromet-technology-haiti"
 date:   2015-10-14
+banner_img: https://www.gfdrr.org/sites/default/files/c4rhaiticover.jpg 
 ---
 
 Reducing Disaster Risk through Hydromet Technology in Haiti
 -----------------------------------------------------------
-
-![C4rhaiticover](https://www.gfdrr.org/sites/default/files/c4rhaiticover.jpg)
 
 Hydro-meteorological hazards (tropical cyclones, thunderstorms, hailstorms, tornados, floods and drought) have a significant impact in Haiti’s development. More than 96% of the country’s territory is at risk from these hazards. The country’s economy is heavily dependent on the agricultural sector, which produces more than 25% of the national GDP and is the main source of revenue for rural households.  However, only 1% of farmers use irrigation, and understanding rainfall is crucial for the vast majority of farmers to grow crops used as their primary source of food and income.
 
@@ -27,4 +26,4 @@ The recently approved “Strengthening Hydro-meteorological Services” project 
 
 Forward-thinking initiatives like these will be an important part of efforts to help communities prepare for the effects of climate change and reduce risk to natural disasters. Through smart application of technology and strong partnerships between scientists, civil society groups, governments and development institutions, vulnerable communities can better protect lives and safeguard economic progress.
 
-Learn more about mentorship, fellowship, and code sprint activities at [](http://www.codeforresilience.org)
+Learn more about mentorship, fellowship, and code sprint activities at [codeforresilience.org](http://www.codeforresilience.org)
