@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "reducing-disaster-risk-through-hydromet-technology-haiti"
+title:  Reducing Disaster Risk through Hydromet Technology in Haiti 
 date:   2015-10-14
 banner_img: c4rhaiticover.jpg 
 ---
