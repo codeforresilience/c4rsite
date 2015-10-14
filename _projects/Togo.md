@@ -12,6 +12,10 @@ In Togo, heavy flooding costs millions of West African CFA francs in losses and 
 Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate Centre (RCCC) to  develop a hydrological model embedded in a digital platform to support early warning and early action in Togo’s Mono River Basin.
 This project aims to develop an SMS-based system for pluviometer data collection upstream and downstream of the dam, which will also support the establishment of a forecast-based financing project for disaster preparedness around the Nangbeto Dam on the Mono river basin. 
 
+Since 2014 Code for Resilience has connected civil society, governments, and technologists through events, mentorship, and code sprint activities to accelerate community’s resilience to natural disasters. 
+
+Stay tunned to find out more about our work in Togo and make sure to follow us in Twitter or contact us if you would like to be involved. 
+
 
 
 
