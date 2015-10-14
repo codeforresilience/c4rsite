@@ -2,7 +2,7 @@
 layout: default
 title:  "reducing-disaster-risk-through-hydromet-technology-haiti"
 date:   2015-10-14
-banner_img: https://www.gfdrr.org/sites/default/files/c4rhaiticover.jpg 
+banner_img: c4rhaiticover.jpg 
 ---
 
 Reducing Disaster Risk through Hydromet Technology in Haiti
