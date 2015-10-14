@@ -7,6 +7,8 @@ banner_img: header-home.png
 Open Source
 ===========
 
+Strengthening local capacity in Open Source ICT tools for disaster resilience.
+
 Growing local open source communities.
 
 Investment in Open Source tools, communities and projects. 
