@@ -25,7 +25,7 @@ In case of an accident or emergency, the Messiah app relays a distress signal by
 Please visit their website: http://www.messiahapp.com/
 
 Jakarta InaSAFE - Indonesia 
-
+---------
 This prototype framework of DaLA tools modifies the existing Indonesia Scenarios Assessment for Emergencies (InaSAFE)* to integrate basic features with different systems used by Jakarta’s Natural Disaster Mitigation Agency (BPBD) and automate the creation of DaLA data to estimate direct damage and losses incurred by flooding in Jakarta. Further technical development of JakSAFE continues.	
 				
 * InaSAFE is a free and open source software project that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. 
