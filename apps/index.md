@@ -31,20 +31,20 @@ This prototype framework of DaLA tools modifies the existing Indonesia Scenarios
 * InaSAFE is a free and open source software project that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. 
 
 Premium! - Haiti 
-
+---------
 Premium! is web application designed in Haiti to increase the availability of real-time information for decision-making by automating the processing and analysis of data in Haiti’s Emergency Operations Centers (EOC). The design required for the developers to add functionalities that would allow information to be collected and shared via text messaging, and use social networks to share time sensitive information with the public. 
 
 Nigechizu project (Community based evacuation mapping) - Japan 
-
+---------
 A project concept developed by young Japanese architects using their spare time, this app provides maps that include the path of past tsunamis and suggests safe locations for shelter in the event of a disaster. http://www.nigechizuproject.com/
 
 Save the baby! - Japan 
-
+---------
 This application focuses on providing critical maternal, newborn and child health information in time- sensitive settings such as combating disease epidemics following major disasters, and using telephone lines to suit the communication environment in developing countries. http://mlabo.net/2014/09/5441/
 Save the Baby went on to win the MIT Climate Lab Code Sprint, and currently being tested for implementation in the Philippines.
 
 Daak (Call for help) - Dhaka 
-
+---------
 Unfortunately during the chaos that accompanies destructive natural disasters some see the opportunity to prey on the most vulnerable. And even though not as directly related to disaster risk management or water management, sexual harassment is a serious problem in Bangladesh.
 					
 Specially designed to prevent sexual harassment, Daak is a personal safety app that can be used online and offline. With the push of a button, Daak will convey your call for help (and location) to the nearest police station and pre-identified loved ones. The app coding is fully open source.
@@ -52,17 +52,17 @@ Specially designed to prevent sexual harassment, Daak is a personal safety app t
 Daak is available for download in Google play: http://rupamit.com/home/daak.html
 
 SOS - India
-
+---------
 SOS is  an RFID/GPS- based beaconing system that will enable disaster response officials to determine the density of tourist groups traveling along popular religious mountainous routes.  When visitors arrive at the pilgrimage entry sites they register their mobile number and unique ID, and are assigned an RFID tag that can be registered by beacons placed periodically along tourism routes.
 
 iLigtas - the Phillipines 
-
+---------
 iLigtas is a technology flexible, easy to use, cross-platform mobile application that prepares you for disaster, helps during disaster, and provides means for recovery after a disaster.
 The application collects data through crowdsourcing via SMS, geotagging, and social media feeds, and then creates infographics and provides relevant data to LGU’s and NGOs for a more disaster resilient Philippines.
 The application is available for download on Google play: http://bit.ly/iLigtasGooglePlay
 
 SIK Navigator – Hanoi 
-
+---------
 SIK Navigator is a navigator app to help people and ships in the Vietnam sea by locating and updating the status of ships in the area and directing them to support one another in emergency rescue missions.
 
 
