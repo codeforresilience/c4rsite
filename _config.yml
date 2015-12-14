@@ -2,7 +2,7 @@
 title: Code for Resilience 
 email: info@codeforresilience.org
 description: Partnering local technologists with disaster relief and risk management experts to improve community resilience to natural disasters.
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
