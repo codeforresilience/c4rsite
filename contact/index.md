@@ -10,7 +10,7 @@ Contact the Code for Resilience Team
 Building on the momentum established in 2014 through 10 hackathon events in 8 countries that engaged over 1,000 participants, this year Code for Resilience (CfR) is introducing fellowship opportunities to further promote the use of open data and build a sustained community of open source software developers for collecting, analyzing, sharing, and improving risk data for better decision-making.
 
 
-If you are interested in becoming a mentor or a Code for Resilience partner, send an expression of interest and your contact information to jbarbosa@worldbank.org.
+If you are interested in becoming a mentor or a Code for Resilience partner, send an expression of interest and your contact information to jbarbosa2@worldbank.org.
 
 <div id="contact-form">
 <form action="#" method="post">
