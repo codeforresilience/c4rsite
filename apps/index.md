@@ -15,14 +15,6 @@ SMS Lapli
 [SMS Lapli](http://github.com/gfdrr/sms-lapli), SMS Rain in Haitian Creole, will help the newly created Hydromet Unit at the Ministry of Agriculture to systematically collect, analyze, archive and disseminate rainfall data from more than 100 agro-meteorological stations across the country. This open source application is just the first module of a national data platform allowing different hydromet networks in the country to work together.
 
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story here: https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti
-
-<section id="Legend">
-      <div class="row bg-primary">
-        <div>
-          <H2>information on our other 2015 Apps coming soon...<H2>
-          </div>
-          <hr>
-      </div>
       
 2014 Apps
 ---------
