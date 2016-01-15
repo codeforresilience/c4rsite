@@ -16,14 +16,6 @@ SMS Lapli
 
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story here: https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti
 
-<p><strong><section id="Fellows and Mentor Profiles Coming Soon"></strong>
-      <div class="row bg-primary">
-        <div>
-          <h2>Fellows and Mentor Profiles Coming Soon...</h2>
-          </div>
-          <hr>
-      </div>
-
 2014 Apps
 ---------
 Messiah - Pakistan
