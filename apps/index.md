@@ -18,7 +18,7 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 <section id="Legend">
       <div class="row bg-primary">
         <div>
-          <h2>Fellows and Mentor Profiles Coming Soon...</h2>
+          <p>Fellows and Mentor Profiles Coming Soon...<p>
           </div>
           <hr>
       </div>
