@@ -15,16 +15,11 @@ The Code for Resilience Fellowship program brings together local technologists, 
 * Refine use cases through local user testing and feedback, use agile development methods
 * Continued local open source development and capacity building
 * Collaborat with larger open source communities around shared development goals
- </div>
-            <hr>
-      </div>
-    </section><!--/section.row.entries-->
 
-<section id="mission">
+<section id="Fellows and Mentor Profiles Coming Soon">
       <div class="row bg-primary">
         <div>
-          <h2>Mission</h2>
-            <p>Code for Resilience is a global initiative strengthening resilience to natural disasters by partnering disaster risk management experts with local technology communities.</hp>
+          <h2>Fellows and Mentor Profiles Coming Soon</h2>
           </div>
           <hr>
       </div>
