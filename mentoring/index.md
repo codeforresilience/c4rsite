@@ -15,6 +15,10 @@ The Code for Resilience Fellowship program brings together local technologists, 
 * Refine use cases through local user testing and feedback, use agile development methods
 * Continued local open source development and capacity building
 * Collaborat with larger open source communities around shared development goals
+ </div>
+            <hr>
+      </div>
+    </section><!--/section.row.entries-->
 
 <section id="mission">
       <div class="row bg-primary">
