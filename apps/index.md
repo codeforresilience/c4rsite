@@ -4,7 +4,7 @@ title: Apps
 banner_img: header-home.png
 ---
 
-Apps
+2015 Apps
 ====
 
 SMS Lapli
@@ -18,7 +18,7 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 <section id="Legend">
       <div class="row bg-primary">
         <div>
-          <p>Fellows and Mentor Profiles Coming Soon...<p>
+          <H2>information on our other 2015 Apps coming soon...<H2>
           </div>
           <hr>
       </div>
