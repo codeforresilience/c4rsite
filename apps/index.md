@@ -7,8 +7,13 @@ banner_img: header-home.png
 2016 Projects
 ====
 
-Coming Soon...
----------
+<p><strong><section id="Coming Soon..."></strong>
+      <div class="row bg-primary">
+        <div>
+          <h2>Fellows and Mentor Profiles Coming Soon...</h2>
+          </div>
+          <hr>
+      </div>
 
 
 
