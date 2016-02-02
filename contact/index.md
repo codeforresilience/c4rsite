@@ -16,8 +16,8 @@ You may also call us directly at: +1(202) 473 2419
 
 Our address is: 18118 H Street NW Washington, DC 20433 USA 
 
-div id="contact-form">
-form action="#" method="post">
+<div id="contact-form">
+<form action="#" method="post">
   <table border="0">
   <tr><td>Name: </td><td><input type="text" name="name"></td></tr>
   <tr><td>E-mail: </td><td><input type="text" name="email"></td></tr>
@@ -27,5 +27,5 @@ form action="#" method="post">
   <!--tr><td><button class="col-md-4" type="submit"></td></tr-->
   </table>
   <button class="col-md-2" type="submit">submit</button>
-/form>
+<form>
 <div>
