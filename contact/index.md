@@ -14,22 +14,24 @@ If you are interested in becoming a mentor or a Code for Resilience partner, sen
 
 Jorge G. Barbosa
 <div class="row bg-primary">
+<article >
 Program Coordinator - jbarbosa2@worldbank.org
 
 <div class="row bg-primary">
-
+<article >
 You may also call us directly at:
 
 <div class="row bg-primary">
-
+<article >
 +1(202) 473 2419
         Or
 +1(917) 515 8527
 
 <div class="row bg-primary">
-
+<article >
 Our address is: 
 <div class="row bg-primary">
+<article >
 18118 H Street NW MC5-205E 
 Washington, DC 20433 USA 
 
