@@ -16,13 +16,20 @@ Jorge G. Barbosa
 <div class="row bg-primary">
 Program Coordinator - jbarbosa2@worldbank.org
 
+<div class="row bg-primary">
 
-You may also call us directly at: 
+You may also call us directly at:
+
+<div class="row bg-primary">
+
 +1(202) 473 2419
         Or
 +1(917) 515 8527
 
+<div class="row bg-primary">
+
 Our address is: 
+<div class="row bg-primary">
 18118 H Street NW MC5-205E 
 Washington, DC 20433 USA 
 
