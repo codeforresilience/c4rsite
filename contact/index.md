@@ -13,7 +13,7 @@ Building on the momentum established in 2014 through 10 hackathon events in 8 co
 If you are interested in becoming a mentor or a Code for Resilience partner, send an expression of interest and your contact information to:
 
 Jorge G. Barbosa
-</p>
+<div class="row bg-primary">
 Program Coordinator - jbarbosa2@worldbank.org
 
 
