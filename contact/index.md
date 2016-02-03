@@ -23,7 +23,7 @@ Or
 +1(917) 515 8527
 
 
-Our address is: <br/><br/>
+Our address is: 
 18118 H Street NW MC5-205E 
 Washington, DC 20433 USA 
 
