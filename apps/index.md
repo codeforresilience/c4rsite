@@ -5,7 +5,7 @@ banner_img: header-home.png
 ---
 
 
-<p><section> id="Fellows and Mentor Profiles Coming Soon"></section>
+
       <div class="row bg-primary">
         <div>
           <h2>Fellows and Mentor Profiles Coming Soon...</h2>
