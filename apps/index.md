@@ -5,14 +5,14 @@ banner_img: header-home.png
 ---
 
 
-
+<section>
       <div class="row bg-primary">
         <div>
           <h2>Fellows and Mentor Profiles Coming Soon...</h2>
           </div>
           <hr>
       </div>
-
+</section>
 
 
 2016 Projects
