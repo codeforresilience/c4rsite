@@ -21,6 +21,10 @@ In Togo, heavy flooding costs millions of West African CFA francs in losses and 
 
 Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate Centre (RCCC) to develop a hydrological model embedded in a digital platform to support early warning and early action in Togo’s Mono River Basin. This project aims to develop an SMS-based system for pluviometer data collection upstream and downstream of the dam, which will also support the establishment of a forecast-based financing project for disaster preparedness around the Nangbeto Dam on the Mono river basin.
 
+<h2><font color="Green">Haiti</font> - SMS Lapli</h2>
+
+Haiti is highly exposed to multiple natural hazards and 96% of its population lives at risk. The 7.0 magnitude earthquake that hit Haiti in January 2010 killed up to 230,000 people, and caused an estimated US$8 billion in damages and losses. 
+
 
 <br/><br/>
 
