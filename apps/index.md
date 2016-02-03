@@ -8,7 +8,7 @@ banner_img: header-home.png
 <section>
       <div class="row bg-primary">
         <div>
-          <h2>2016 Projects</h2>
+          <h1>2016 Projects</h1>
           </div>
           <hr>
       </div>
@@ -19,9 +19,14 @@ Coming Soon...
 
 
 
-
-2015 Apps
-====
+<section>
+      <div class="row bg-primary">
+        <div>
+          <h1>2015 Apps</h1>
+          </div>
+          <hr>
+      </div>
+</section>
 
 SMS Lapli
 ---------
