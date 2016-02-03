@@ -26,3 +26,18 @@ Our address is:
 Washington, DC 20433 USA 
 
 
+<div id="contact-form">
+<form action="#" method="post">
+  <table border="0">
+  <tr><td>Name: </td><td><input type="text" name="name"></td></tr>
+  <tr><td>E-mail: </td><td><input type="text" name="email"></td></tr>
+  <tr><td>Country: </td><td><input type="text" name="country"></td></tr>
+  <tr><td>Query: </td><td><input type="text" name="query"></td></tr>
+  <tr><td>Message: </td><td><textarea name="message"></textarea></td></tr>
+  <!--tr><td><button class="col-md-4" type="submit"></td></tr-->
+  </table>
+  <button class="col-md-2" type="submit">submit</button>
+<form>
+<div>
+
+
