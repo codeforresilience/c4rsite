@@ -12,7 +12,7 @@ News about our latest event in Dar es Salaam Tanzania (saturday January 30th, 20
 
 Trainings
 ==========================
-If local partners need a refresher or deep dive training on existing disaster risk mangement tech tools that can be used to meet locally identified problem statements, Code for Resilience provides financial and technical support to organize trainings in collaboration with local partners. See an example of a past training event here. [LINK TO EVENT ON MAP FOR JAKARTA OR OTHER PRIOR EVENT THAT INCLUDED A TRAINING COMPONENT.]
+If local partners need a refresher or deep dive training on existing disaster risk mangement tech tools that can be used to meet locally identified problem statements, Code for Resilience provides financial and technical support to organize trainings in collaboration with local partners. 
 
 
 Code Sprints
