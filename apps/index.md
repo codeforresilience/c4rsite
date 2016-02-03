@@ -23,7 +23,7 @@ Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate 
 
 <h2><font color="Green">Haiti</font> - SMS Lapli</h2>
 
-![]({{site.baseurl}}/img/sms-lapli.png)
+<center>![]({{site.baseurl}}/img/sms-lapli.png)</center>
 
 Haiti is highly exposed to multiple natural hazards and 96% of its population lives at risk. The 7.0 magnitude earthquake that hit Haiti in January 2010 killed up to 230,000 people, and caused an estimated US$8 billion in damages and losses. 
 
@@ -44,15 +44,6 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 
 <br/><br/>
 
-
-
-
-
-[SMS Lapli](http://github.com/gfdrr/sms-lapli), SMS Rain in Haitian Creole, will help the newly created Hydromet Unit at the Ministry of Agriculture to systematically collect, analyze, archive and disseminate rainfall data from more than 100 agro-meteorological stations across the country. This open source application is just the first module of a national data platform allowing different hydromet networks in the country to work together.
-
-To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story here: https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti
-
-<br/><br/>
 
 <section>
       <div class="row bg-primary">
