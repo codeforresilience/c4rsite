@@ -41,18 +41,10 @@ Through smart application of technology and strong partnerships between scientis
 
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story <a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti">here</a> 
 
+<h3>Stay tuned for updates on our projects in Tanzania, Sri Lanka, and Indonesia...</h3>
 
 <br/><br/>
 
-
-
-
-
-[SMS Lapli](http://github.com/gfdrr/sms-lapli), SMS Rain in Haitian Creole, will help the newly created Hydromet Unit at the Ministry of Agriculture to systematically collect, analyze, archive and disseminate rainfall data from more than 100 agro-meteorological stations across the country. This open source application is just the first module of a national data platform allowing different hydromet networks in the country to work together.
-
-To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story here: https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti
-
-<br/><br/>
 
 <section>
       <div class="row bg-primary">
