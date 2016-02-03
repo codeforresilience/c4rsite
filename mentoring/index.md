@@ -16,10 +16,11 @@ The Code for Resilience Fellowship program brings together local technologists, 
 * Continued local open source development and capacity building
 * Collaborat with larger open source communities around shared development goals
 
-<p><strong><section id="Fellows and Mentor Profiles Coming Soon"></strong>
+<section>
       <div class="row bg-primary">
         <div>
           <h2>Fellows and Mentor Profiles Coming Soon...</h2>
           </div>
           <hr>
       </div>
+</section>
