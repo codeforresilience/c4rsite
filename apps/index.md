@@ -15,7 +15,7 @@ banner_img: header-home.png
 </section>
 
 
-Coming Soon...
+Coming Soon...<br/><br/>
 
 
 
