@@ -15,7 +15,7 @@ banner_img: header-home.png
 </section>
 
 
-Togo - FUNctional EStimation (FUNES) Model
+<font color="red">Togo</font> - FUNctional EStimation (FUNES) Model
 ---------
 In Togo, heavy flooding costs millions of West African CFA francs in losses and damages each year. Timely, simple, and accurate forecasts tools that collect, process, and disseminate data in a timely and reliable manner are key. Currently, however, the country lacks such information, as data management is completed manually and there is no platform to store it. 
 
