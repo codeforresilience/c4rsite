@@ -42,7 +42,7 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 <section>
       <div class="row bg-primary">
         <div>
-          <h1>2014 Apps</h1>
+          <h1><a href="https://github.com/codeforresilience/c4rsite/tree/gh-pages/pdfs"> 2014 Apps</a></h1>
           </div>
           <hr>
       </div>
