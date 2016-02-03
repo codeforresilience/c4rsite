@@ -37,8 +37,7 @@ This open source application is just the first module of a national data platfor
 
 Through smart application of technology and strong partnerships between scientists, civil society groups, governments and development institutions, vulnerable communities can better protect lives and safeguard economic progress.
 
-To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story here: 
-<a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti"><h3>Read more.</h3></a> 
+To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story <a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti">here</a> 
 
 
 <br/><br/>
