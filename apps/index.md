@@ -8,7 +8,7 @@ banner_img: header-home.png
 <section>
       <div class="row bg-primary">
         <div>
-          <h1>2016 Projects</h1>
+          <h1>2015 - 2016 Projects</h1>
           </div>
           <hr>
       </div>
@@ -22,6 +22,8 @@ In Togo, heavy flooding costs millions of West African CFA francs in losses and 
 Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate Centre (RCCC) to develop a hydrological model embedded in a digital platform to support early warning and early action in Togo’s Mono River Basin. This project aims to develop an SMS-based system for pluviometer data collection upstream and downstream of the dam, which will also support the establishment of a forecast-based financing project for disaster preparedness around the Nangbeto Dam on the Mono river basin.
 
 <h2><font color="Green">Haiti</font> - SMS Lapli</h2>
+
+![]({{site.baseurl}}/img/sms-lapli.png)
 
 Haiti is highly exposed to multiple natural hazards and 96% of its population lives at risk. The 7.0 magnitude earthquake that hit Haiti in January 2010 killed up to 230,000 people, and caused an estimated US$8 billion in damages and losses. 
 
@@ -44,19 +46,7 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 
 
 
-<section>
-      <div class="row bg-primary">
-        <div>
-          <h1>2015 Apps</h1>
-          </div>
-          <hr>
-      </div>
-</section>
 
-SMS Lapli
----------
-
-![]({{site.baseurl}}/img/sms-lapli.png)
 
 [SMS Lapli](http://github.com/gfdrr/sms-lapli), SMS Rain in Haitian Creole, will help the newly created Hydromet Unit at the Ministry of Agriculture to systematically collect, analyze, archive and disseminate rainfall data from more than 100 agro-meteorological stations across the country. This open source application is just the first module of a national data platform allowing different hydromet networks in the country to work together.
 
