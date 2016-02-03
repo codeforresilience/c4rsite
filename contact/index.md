@@ -12,32 +12,20 @@ Building on the momentum established in 2014 through 10 hackathon events in 8 co
 
 If you are interested in becoming a mentor or a Code for Resilience partner, send an expression of interest and your contact information to:
 
-Jorge G. Barbosa <br/><br/>Program Coordinator - jbarbosa2@worldbank.org <br/><br/>You may also call us directly at:
+Keiko Saito - Program Manager: ksaito2@worldbank.org
+Jorge G. Barbosa - Program Coordinator: jbarbosa2@worldbank.org 
 
 
+You may also call Jorge directly at:
 +1(202) 473 2419
         Or
 +1(917) 515 8527
 
 
 Our address is: 
-
 18118 H Street NW MC5-205E 
 Washington, DC 20433 USA 
 
 
-<div id="contact-form">
-<form action="#" method="post">
-  <table border="0">
-  <tr><td>Name: </td><td><testing testing></td></tr>
-  <tr><td>E-mail: </td><td><input type="text" name="email"></td></tr>
-  <tr><td>Country: </td><td><input type="text" name="country"></td></tr>
-  <tr><td>Query: </td><td><input type="text" name="query"></td></tr>
-  <tr><td>Message: </td><td><textarea name="message"></textarea></td></tr>
-  <!--tr><td><button class="col-md-4" type="submit"></td></tr-->
-  </table>
-  <button class="col-md-2" type="submit">submit</button>
-<form>
-<div>
 
 
