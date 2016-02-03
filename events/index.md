@@ -6,7 +6,9 @@ banner_img: header-home.png
 
 Events
 ==========================
-Code for Resilience supports events that build community, knowledge, and capacity, and contribute to the base of locally-relevant disaster risk management tech tools. Since launching in 2014, Code for Resilience has organized over a dozen events on four continents. Use the map below to browse past and future events. Stay up-to-date on planning for future events by following us on Twitter at @Code4Resilience.     
+Code for Resilience supports events that build community, knowledge, and capacity, and contribute to the base of locally-relevant disaster risk management tech tools. Since launching in 2014, Code for Resilience has organized over a dozen events on four continents. <br/><br/>
+
+News about our latest event in Dar es Salaam Tanzania (saturday January 30th, 2016) coming soon...
 
 Trainings
 ==========================
