@@ -8,7 +8,7 @@ Events
 ==========================
 Code for Resilience supports events that build community, knowledge, and capacity, and contribute to the base of locally-relevant disaster risk management tech tools. Since launching in 2014, Code for Resilience has organized over a dozen events on four continents. <br/>
 
-News about our latest event in Dar es Salaam Tanzania (saturday January 30th, 2016) coming soon...<br/><br/>
+<h3>News about our latest event in Dar es Salaam Tanzania (saturday January 30th, 2016) coming soon...</h3><br/><br/>
 
 Trainings
 ==========================
