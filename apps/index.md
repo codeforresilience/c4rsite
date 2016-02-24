@@ -20,10 +20,11 @@ Code for Resilience (CfR) (http://codeforresilience.org) is a GFDRR project, aim
 Ultimately, this led to five problem statements being developed and matched to six Code for Resilience fellows, drawn from across Tanzania and Zanzibar:
 
 •	Geonode and QGIS metadata integration in for ZanSea (http://zansea-geonode.org) and National Management of Environment Council (NMEC). ;
-InaSafe Flood inundation software feature enhancement for the Prime Minister’s Office - Disaster Management Department; 
-Inasafe Population and elevation data curation, through integration of the http://worldpop.org.uk database. 
-Design and localisation of Kiswahili of Adopt-a-Drain; 
-Prototyping the implementation of low-cost 3D printed weather stations (rain, wind and flow gauges) in collaboration with the Tandale Ward Office and Kinondoni Municipal Council; 
+•	InaSafe Flood inundation software feature enhancement for the Prime Minister’s Office - Disaster Management Department; 
+•	Inasafe Population and elevation data curation, through integration of the http://worldpop.org.uk database; 
+•	Design and localisation of Kiswahili of Adopt-a-Drain; 
+•	Prototyping the implementation of low-cost 3D printed weather stations (rain, wind and flow gauges) in collaboration with the Tandale Ward Office and Kinondoni Municipal Council 
+
 
 The results and progress of the fellows and challenges will be shortly posted on the Ramani Huria blog: http://ramanihuria.org/news/ and on the Code for Resilience website (http://codeforresilience.org). Photos and media from the event are here: https://www.flickr.com/photos/markiliffe/albums/72157663681076439 
 
