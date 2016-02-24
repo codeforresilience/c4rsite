@@ -17,9 +17,10 @@ banner_img: header-home.png
 <h2><font color="Green">Tanzania</font> - Fellowship Program</h2>
 Code for Resilience (CfR) (http://codeforresilience.org) is a GFDRR project, aimed at connecting technologists and sector specialists to create technology to help reduce disaster risk. In Tanzania this is timely due to the Ramani Huria (http://ramanihuria.org) - Community mapping for flood resilience project. Raman Huria is a collaboration between Government of Tanzania’s Commission of Science and Technology, Dar es Salaam City Council, Red Cross and local universities coordinated by and World Bank, supporting the mapping and data collection across Dar es Salaam. Through Ramani Huria, flood prone neighbourhoods are being surveyed in collaboration with university students and community members, with the resulting maps providing a new tool for city and national government to plan resilience and response activities. But, this has also enabled existing technological gaps to be identified, which the projects of CfR and Ramani Huria can now address.
 
-Ultimately, this led to six problem statements being developed and matched to six Code for Resilience fellows, drawn from across Tanzania and Zanzibar:
+Ultimately, this led to five problem statements being developed and matched to six Code for Resilience fellows, drawn from across Tanzania and Zanzibar:
 
-Geonode and QGIS metadata integration in for ZanSea (http://zansea-geonode.org) and National Management of Environment Council (NMEC). InaSafe Flood inundation software feature enhancement for the Prime Minister’s Office - Disaster Management Department; 
+•	Geonode and QGIS metadata integration in for ZanSea (http://zansea-geonode.org) and National Management of Environment Council (NMEC). ;
+InaSafe Flood inundation software feature enhancement for the Prime Minister’s Office - Disaster Management Department; 
 Inasafe Population and elevation data curation, through integration of the http://worldpop.org.uk database. 
 Design and localisation of Kiswahili of Adopt-a-Drain; 
 Prototyping the implementation of low-cost 3D printed weather stations (rain, wind and flow gauges) in collaboration with the Tandale Ward Office and Kinondoni Municipal Council; 
@@ -35,6 +36,7 @@ There are now weekly checkins with the fellows, TODI and CfR team to monitor pro
 In Togo, heavy flooding costs millions of West African CFA francs in losses and damages each year. Timely, simple, and accurate forecasts tools that collect, process, and disseminate data in a timely and reliable manner are key. Currently, however, the country lacks such information, as data management is completed manually and there is no platform to store it. 
 
 Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate Centre (RCCC) to develop a hydrological model embedded in a digital platform to support early warning and early action in Togo’s Mono River Basin. This project aims to develop an SMS-based system for pluviometer data collection upstream and downstream of the dam, which will also support the establishment of a forecast-based financing project for disaster preparedness around the Nangbeto Dam on the Mono river basin.
+
 <br/>
 <h2><font color="Green">Haiti</font> - SMS Lapli</h2>
 
@@ -55,6 +57,7 @@ This open source application is just the first module of a national data platfor
 Through smart application of technology and strong partnerships between scientists, civil society groups, governments and development institutions, vulnerable communities can better protect lives and safeguard economic progress.
 
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story <a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti">here</a> 
+
 <br/>
 <h3>Stay tuned for updates on our projects in Tanzania, Sri Lanka, and Indonesia...</h3>
 
