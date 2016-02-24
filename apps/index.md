@@ -28,14 +28,14 @@ The results and progress of the fellows and challenges will be shortly posted on
 
 There are now weekly checkins with the fellows, TODI and CfR team to monitor progress and to support fellows with mentorship. Mentorship is provided by a variety of technologists, from specialists at the Norwegian Environment Agency and GFDRR to the State University of Zanzibar.
 
-
+<br/>
 
 <h2><font color="Green">Togo</font> - FUNctional EStimation (FUNES) Model</h2>
 
 In Togo, heavy flooding costs millions of West African CFA francs in losses and damages each year. Timely, simple, and accurate forecasts tools that collect, process, and disseminate data in a timely and reliable manner are key. Currently, however, the country lacks such information, as data management is completed manually and there is no platform to store it. 
 
 Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate Centre (RCCC) to develop a hydrological model embedded in a digital platform to support early warning and early action in Togo’s Mono River Basin. This project aims to develop an SMS-based system for pluviometer data collection upstream and downstream of the dam, which will also support the establishment of a forecast-based financing project for disaster preparedness around the Nangbeto Dam on the Mono river basin.
-
+<br/>
 <h2><font color="Green">Haiti</font> - SMS Lapli</h2>
 
 ![]({{site.baseurl}}/img/sms-lapli.png)
@@ -55,7 +55,7 @@ This open source application is just the first module of a national data platfor
 Through smart application of technology and strong partnerships between scientists, civil society groups, governments and development institutions, vulnerable communities can better protect lives and safeguard economic progress.
 
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story <a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti">here</a> 
-
+<br/>
 <h3>Stay tuned for updates on our projects in Tanzania, Sri Lanka, and Indonesia...</h3>
 
 <br/><br/>
