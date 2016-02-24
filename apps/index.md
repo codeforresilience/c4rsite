@@ -14,6 +14,21 @@ banner_img: header-home.png
       </div>
 </section>
 
+<h2><font color="Green">Tanzania</font> - Fellowship Program</h2>
+Code for Resilience (CfR) (http://codeforresilience.org) is a GFDRR project, aimed at connecting technologists and sector specialists to create technology to help reduce disaster risk. In Tanzania this is timely due to the Ramani Huria (http://ramanihuria.org) - Community mapping for flood resilience project. Raman Huria is a collaboration between Government of Tanzania’s Commission of Science and Technology, Dar es Salaam City Council, Red Cross and local universities coordinated by and World Bank, supporting the mapping and data collection across Dar es Salaam. Through Ramani Huria, flood prone neighbourhoods are being surveyed in collaboration with university students and community members, with the resulting maps providing a new tool for city and national government to plan resilience and response activities. But, this has also enabled existing technological gaps to be identified, which the projects of CfR and Ramani Huria can now address.
+
+Ultimately, this led to six problem statements being developed and matched to six Code for Resilience fellows, drawn from across Tanzania and Zanzibar:
+
+Geonode and QGIS metadata integration in for ZanSea (http://zansea-geonode.org) and National Management of Environment Council (NMEC). InaSafe Flood inundation software feature enhancement for the Prime Minister’s Office - Disaster Management Department; 
+Inasafe Population and elevation data curation, through integration of the http://worldpop.org.uk database. 
+Design and localisation of Kiswahili of Adopt-a-Drain; 
+Prototyping the implementation of low-cost 3D printed weather stations (rain, wind and flow gauges) in collaboration with the Tandale Ward Office and Kinondoni Municipal Council; 
+
+The results and progress of the fellows and challenges will be shortly posted on the Ramani Huria blog: http://ramanihuria.org/news/ and on the Code for Resilience website (http://codeforresilience.org). Photos and media from the event are here: https://www.flickr.com/photos/markiliffe/albums/72157663681076439 
+
+There are now weekly checkins with the fellows, TODI and CfR team to monitor progress and to support fellows with mentorship. Mentorship is provided by a variety of technologists, from specialists at the Norwegian Environment Agency and GFDRR to the State University of Zanzibar.
+
+
 
 <h2><font color="Green">Togo</font> - FUNctional EStimation (FUNES) Model</h2>
 
