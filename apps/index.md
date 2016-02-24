@@ -15,6 +15,7 @@ banner_img: header-home.png
 </section>
 
 <h2><font color="Green">Tanzania</font> - Fellowship Program</h2>
+![]({{site.baseurl}}/img/Tanzania.fellows.jpg)
 Code for Resilience (CfR) (http://codeforresilience.org) is a GFDRR project, aimed at connecting technologists and sector specialists to create technology to help reduce disaster risk. In Tanzania this is timely due to the Ramani Huria (http://ramanihuria.org) - Community mapping for flood resilience project. Raman Huria is a collaboration between Government of Tanzania’s Commission of Science and Technology, Dar es Salaam City Council, Red Cross and local universities coordinated by and World Bank, supporting the mapping and data collection across Dar es Salaam. Through Ramani Huria, flood prone neighbourhoods are being surveyed in collaboration with university students and community members, with the resulting maps providing a new tool for city and national government to plan resilience and response activities. But, this has also enabled existing technological gaps to be identified, which the projects of CfR and Ramani Huria can now address.
 
 Ultimately, this led to five problem statements being developed and matched to six Code for Resilience fellows, drawn from across Tanzania and Zanzibar:
