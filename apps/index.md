@@ -40,7 +40,7 @@ There are now weekly checkins with the fellows, TODI and CfR team to monitor pro
 <br/>
 
 <h2><font color="Green">Togo</font> - FUNctional EStimation (FUNES) Model</h2>
-![]({{site.baseurl}}/img/Data Sculpture Video from Red Cross.JPG) (https://vimeo.com/167524412 "A DataSculpture on Flood Risk: Go with the Flow?")
+<a href="https://vimeo.com/167524412"><![]({{site.baseurl}}/img/Data Sculpture Video from Red Cross.JPG)></a>
 
 In Togo, heavy flooding costs millions of West African CFA francs in losses and damages each year. Timely, simple, and accurate forecasts tools that collect, process, and disseminate data in a timely and reliable manner are key. Currently, however, the country lacks such information, as data management is completed manually and there is no platform to store it. 
 
