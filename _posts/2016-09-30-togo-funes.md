@@ -2,7 +2,7 @@
 layout: default
 title:  Togo FUNES   
 date:   2016-09-30
-banner_img:  {{site.baseurl}}/img/Pablo_Togo.png
+banner_img:  
 ---
 
 {{ page.title }}
