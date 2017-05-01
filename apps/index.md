@@ -68,7 +68,7 @@ Through smart application of technology and strong partnerships between scientis
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story <a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti">here</a> 
 
 <br/>
-<h3>Stay tuned for updates on our projects in Sri Lanka, and Indonesia</h3>
+<h3>Our projects in Sri Lanka, and Indonesia will be added in due course</h3>
 
 <br/><br/>
 
@@ -76,9 +76,9 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 <section>
       <div class="row bg-primary">
         <div>
-          <h1><a href="https://github.com/codeforresilience/c4rsite/tree/gh-pages/pdfs"> 2014 Apps</a></h1>
-          </div>
-          <hr>
+          <h1>2014 Projects and Apps</h1>
+         </div>
+	 <hr><a href="https://{{site.baseurl}}/PDF/CFR_OVERVIEWpdf.pdf"> CFR Overview</a>
       </div>
 </section>
 
