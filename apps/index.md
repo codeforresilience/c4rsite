@@ -78,7 +78,15 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
         <div>
           <h1>2014 Projects and Apps</h1>
          </div>
-	 <hr><a href="/pdfs/CFR_OVERVIEWpdf.pdf">CFR Overview</a> 
+	 <hr><a href="/pdfs/CFR_OVERVIEWpdf.pdf">CFR Overview 2014</a>
+	 <hr><a href="/pdfs/CFR_BANGLADESH.pdf">CFR_Bangladesh 2014</a>
+	 <hr><a href="/pdfs/CFR_HAITI.pdf">CFR Haiti 2014</a>
+	 <hr><a href="/pdfs/CFR_INDIA.pdf">CFR India 2014</a>
+	 <hr><a href="/pdfs/CFR_INDONESIA.pdf">CFR Indonesia 2014</a>
+	 <hr><a href="/pdfs/CFR_JAPAN.pdf">CFR Japan 2014</a>
+	 <hr><a href="/pdfs/CFR_PAKISTAN.pdf">CFR Paksitan 2014</a>
+	 <hr><a href="/pdfs/CFR_PHILIPPINES.pdf">CFR Philippines 2014</a>
+	 <hr><a href="/pdfs/CFR_VIETNAM.pdf">CFR Vietnam 2014</a>
       </div>
 </section>
 
