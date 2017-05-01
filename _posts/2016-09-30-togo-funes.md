@@ -2,7 +2,7 @@
 layout: default
 title:  #Togo FUNES   
 date:   2016-09-30
-banner_img:  Pablo_Togo.png
+banner_img:  https://github.com/codeforresilience/c4rsite/blob/gh-pages/img/Pablo_Togo.png
 ---
 
 {{ page.title }}
