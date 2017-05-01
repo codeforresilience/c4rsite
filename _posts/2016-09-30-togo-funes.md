@@ -16,7 +16,7 @@ Against this gloomy forecast, there was a sign of major progress in the small co
 A key component of Togo’s response is forecast based financing (FBF) – a new way to manage growing climate-related risks. The ongoing trial FBF is designed for the Red Cross operations in Togo, where if flood forecast reaches a pre-defined threshold, funding for immediate response is automatically disbursed to Togo Red Cross so that items for preparation such as sand bags, water or food can be purchased. The FBF in Togo consists of three components, an upstream flood forecast model, Dam management component and downstream community alerting system. 
 
 
-![team discussing flood alerts]({{site.baseurl}}/img/Pablo_Togo.png) 
+![team discussing flood alerts]({{site.baseurl}}/img/Pablo_Togo_sm.jpg) 
 
 <!--more-->
 
