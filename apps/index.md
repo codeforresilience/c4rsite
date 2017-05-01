@@ -78,7 +78,7 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
         <div>
           <h1>2014 Projects and Apps</h1>
          </div>
-	 <hr><a href={{site.baseurl}}/pdfs/CFR_OVERVIEWpdf.pdf> CFR Overview</a> 
+	 <hr><a href="/pdfs/CFR_OVERVIEWpdf.pdf">CFR Overview</a> 
       </div>
 </section>
 
