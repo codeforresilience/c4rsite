@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  #Togo FUNES: Forecasting based Financing (FbF) using an innovative, low-cost flood forcast model   
+title:  #Togo FUNES - Forecasting based Financing using innovative low-cost flood forcast model   
 date:   2016-09-30
 banner_img:  Pablo_Togo.png
 ---
@@ -16,7 +16,7 @@ Against this gloomy forecast, there was a sign of major progress in the small co
 A key component of Togo’s response is forecast based financing (FBF) – a new way to manage growing climate-related risks. The ongoing trial FBF is designed for the Red Cross operations in Togo, where if flood forecast reaches a pre-defined threshold, funding for immediate response is automatically disbursed to Togo Red Cross so that items for preparation such as sand bags, water or food can be purchased. The FBF in Togo consists of three components, an upstream flood forecast model, Dam management component and downstream community alerting system. 
 
 
-![](blog_image.png)
+![](Blog_image.png)
 
 <!--more-->
 
