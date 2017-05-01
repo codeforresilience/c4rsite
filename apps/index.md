@@ -68,7 +68,7 @@ Through smart application of technology and strong partnerships between scientis
 To find out more about the work in Haiti, make sure to follow us in Twitter, contact us, and see our feature story <a href="https://www.gfdrr.org/reducing-disaster-risk-through-hydromet-technology-haiti">here</a> 
 
 <br/>
-<h3>Stay tuned for updates on our projects in Tanzania, Sri Lanka, and Indonesia...</h3>
+<h3>Stay tuned for updates on our projects in Sri Lanka, and Indonesia</h3>
 
 <br/><br/>
 
