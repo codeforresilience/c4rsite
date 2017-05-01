@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  #Togo FUNES: Coding for Flood Resilience
+title:  #Togo FUNES: Forecasting based Financing (FbF) using innovative, low-cost flood forcast model   
 date:   2016-09-30
-banner_img: togo-funes.png 
+banner_img:  
 ---
 
 {{ page.title }}
@@ -11,12 +11,12 @@ The number of people exposed to river and coastal flooding is expected to rise b
 
 As flooding and other extreme weather events cause more than 75% of all disaster losses, it is essential to reduce these types of risk – especially for the most vulnerable – to help curb quadrupling of disaster losses over the last few decades, and help make development gains sustainable for populations routinely affected by impacts from these events.
 
-Against this gloomy forecast, there was a sign of major progress in the small country Togo last month. On September 18th, 2016, Togo’s Ministry of the Interior authorized the first-ever planned early release of floodwater from the binational Nangbéto hydropower dam on the Mono river. This historic decision marks the first time that the dam is able to not only anticipate flooding but also reduce the impact of flooding in downstream communities, representing an unprecedented level of planning and cooperation among key actors in Togo's National Platform for Disaster Risk Reduction.
+Against this gloomy forecast, there was a sign of major progress in the small country Togo in September 2016. On September 18th, 2016, Togo’s Ministry of the Interior authorized the first-ever planned early release of floodwater from the binational Nangbéto hydropower dam on the Mono river. This historic decision marks the first time that the dam is able to not only anticipate flooding but also reduce the impact of flooding in downstream communities, representing an unprecedented level of planning and cooperation among key actors in Togo's National Platform for Disaster Risk Reduction.
 
 A key component of Togo’s response is forecast based financing (FBF) – a new way to manage growing climate-related risks. The ongoing trial FBF is designed for the Red Cross operations in Togo, where if flood forecast reaches a pre-defined threshold, funding for immediate response is automatically disbursed to Togo Red Cross so that items for preparation such as sand bags, water or food can be purchased. The FBF in Togo consists of three components, an upstream flood forecast model, Dam management component and downstream community alerting system. 
 ...
 
-Image here
+![](blog_image.png)
 
 <!--more-->
 
