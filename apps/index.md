@@ -49,7 +49,7 @@ Code for Resilience (CfR) has partnered with the Red Cross Red Crescent Climate 
 <br/>
 <h2><font color="Green">Haiti</font> - SMS Lapli</h2>
 
-![](sms-lapli.png)
+![]({{site.baseurl}}/img/sms-lapli.png)
 
 Haiti is highly exposed to multiple natural hazards and 96% of its population lives at risk. The 7.0 magnitude earthquake that hit Haiti in January 2010 killed up to 230,000 people, and caused an estimated US$8 billion in damages and losses. 
 
