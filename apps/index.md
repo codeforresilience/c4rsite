@@ -81,23 +81,23 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 	  </div>
 </section>
 
-Messiah - Pakistan <a href="/pdfs/CFR_PAKISTAN.pdf"> CFR Paksitan 2014 Infographics PDF</a>
+Messiah - Pakistan <a href="/pdfs/CFR_PAKISTAN.pdf"> <h4>CFR Paksitan 2014 Infographics PDF</h4></a>
 ---------
 In case of an accident or emergency, the Messiah app relays a distress signal by sending emergency alerts to a pre-identified network of family and friends at the push of a button. Recognizing that often times members of local communities are themselves the true “first responders,” Messiah enables “samaritans” within its community of users to help one another in times of emergency.
 					
 Please visit their website: http://www.messiahapp.com/
 
-Jakarta InaSAFE - Indonesia <a href="/pdfs/CFR_INDONESIA.pdf">CFR Indonesia 2014 Infographics PDF</a>
+Jakarta InaSAFE - Indonesia <a href="/pdfs/CFR_INDONESIA.pdf"><h4>CFR Indonesia 2014 Infographics PDF</h4></a>
 ---------
 This prototype framework of DaLA tools modifies the existing Indonesia Scenarios Assessment for Emergencies (InaSAFE)* to integrate basic features with different systems used by Jakarta’s Natural Disaster Mitigation Agency (BPBD) and automate the creation of DaLA data to estimate direct damage and losses incurred by flooding in Jakarta. Further technical development of JakSAFE continues.	
 				
 * InaSAFE is a free and open source software project that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. 
 
-Premium! - Haiti <a href="/pdfs/CFR_HAITI.pdf"> CFR Haiti 2014 Infographics PDF</a>
+Premium! - Haiti <a href="/pdfs/CFR_HAITI.pdf"> <h4>CFR Haiti 2014 Infographics PDF</h4></a>
 ---------
 Premium! is web application designed in Haiti to increase the availability of real-time information for decision-making by automating the processing and analysis of data in Haiti’s Emergency Operations Centers (EOC). The design required for the developers to add functionalities that would allow information to be collected and shared via text messaging, and use social networks to share time sensitive information with the public. 
 
-Nigechizu project (Community based evacuation mapping) - Japan <a href="/pdfs/CFR_JAPAN.pdf">CFR Japan 2014 Infographics PDF</a>
+Nigechizu project (Community based evacuation mapping) - Japan <a href="/pdfs/CFR_JAPAN.pdf"><h4>CFR Japan 2014 Infographics PDF</h4></a>
 ---------
 A project concept developed by young Japanese architects using their spare time, this app provides maps that include the path of past tsunamis and suggests safe locations for shelter in the event of a disaster. http://www.nigechizuproject.com/
 
