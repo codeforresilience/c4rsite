@@ -82,19 +82,19 @@ To find out more about the work in Haiti, make sure to follow us in Twitter, con
 	  </div>
 </section>
 
-Messiah - Pakistan <a href="/pdfs/CFR_PAKISTAN.pdf">(CFR Paksitan 2014 Infograpics PDF)</a>
+Messiah - Pakistan <a href="/pdfs/CFR_PAKISTAN.pdf"> CFR Paksitan 2014 Infograpics PDF</a>
 ---------
 In case of an accident or emergency, the Messiah app relays a distress signal by sending emergency alerts to a pre-identified network of family and friends at the push of a button. Recognizing that often times members of local communities are themselves the true “first responders,” Messiah enables “samaritans” within its community of users to help one another in times of emergency.
 					
 Please visit their website: http://www.messiahapp.com/
 
-Jakarta InaSAFE - Indonesia  <a href="/pdfs/CFR_INDONESIA.pdf">CFR Indonesia 2014 Infograpics PDF</a>
+Jakarta InaSAFE - Indonesia <a href="/pdfs/CFR_INDONESIA.pdf">CFR Indonesia 2014 Infograpics PDF</a>
 ---------
 This prototype framework of DaLA tools modifies the existing Indonesia Scenarios Assessment for Emergencies (InaSAFE)* to integrate basic features with different systems used by Jakarta’s Natural Disaster Mitigation Agency (BPBD) and automate the creation of DaLA data to estimate direct damage and losses incurred by flooding in Jakarta. Further technical development of JakSAFE continues.	
 				
 * InaSAFE is a free and open source software project that produces realistic natural hazard impact scenarios for better planning, preparedness and response activities. 
 
-Premium! - Haiti  <a href="/pdfs/CFR_HAITI.pdf">CFR Haiti 2014 Infograpics PDF</a>
+Premium! - Haiti <a href="/pdfs/CFR_HAITI.pdf"> CFR Haiti 2014 Infograpics PDF</a>
 ---------
 Premium! is web application designed in Haiti to increase the availability of real-time information for decision-making by automating the processing and analysis of data in Haiti’s Emergency Operations Centers (EOC). The design required for the developers to add functionalities that would allow information to be collected and shared via text messaging, and use social networks to share time sensitive information with the public. 
 
@@ -115,7 +115,7 @@ Specially designed to prevent sexual harassment, Daak is a personal safety app t
 					
 Daak is available for download in Google play: http://rupamit.com/home/daak.html
 
-SOS - India<a href="/pdfs/CFR_INDIA.pdf">CFR India 2014 Infographics PDF</a>
+SOS - India <a href="/pdfs/CFR_INDIA.pdf">CFR India 2014 Infographics PDF</a>
 ---------
 SOS is  an RFID/GPS- based beaconing system that will enable disaster response officials to determine the density of tourist groups traveling along popular religious mountainous routes.  When visitors arrive at the pilgrimage entry sites they register their mobile number and unique ID, and are assigned an RFID tag that can be registered by beacons placed periodically along tourism routes.
 
@@ -125,7 +125,7 @@ iLigtas is a technology flexible, easy to use, cross-platform mobile application
 The application collects data through crowdsourcing via SMS, geotagging, and social media feeds, and then creates infographics and provides relevant data to LGU’s and NGOs for a more disaster resilient Philippines.
 The application is available for download on Google play: http://bit.ly/iLigtasGooglePlay
 
-SIK Navigator – Vietnam  <a href="/pdfs/CFR_VIETNAM.pdf">CFR Vietnam 2014 Infographics PDF</a>
+SIK Navigator – Vietnam <a href="/pdfs/CFR_VIETNAM.pdf">CFR Vietnam 2014 Infographics PDF</a>
 ---------
 SIK Navigator is a navigator app to help people and ships in the Vietnam sea by locating and updating the status of ships in the area and directing them to support one another in emergency rescue missions.
 
