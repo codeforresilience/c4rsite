@@ -85,9 +85,9 @@ Messiah - Pakistan
 ---------
 In case of an accident or emergency, the Messiah app relays a distress signal by sending emergency alerts to a pre-identified network of family and friends at the push of a button. Recognizing that often times members of local communities are themselves the true “first responders,” Messiah enables “samaritans” within its community of users to help one another in times of emergency.
 					
-Please visit their website: http://www.messiahapp.com/   <a href="/pdfs/CFR_PAKISTAN.pdf"><font color="green">CFR Paksitan 2014 Infographics PDF</font></a>
+Please visit their website: http://www.messiahapp.com/   <a href="/pdfs/CFR_PAKISTAN.pdf"><font color="blue">CFR Paksitan 2014 Infographics PDF</font></a>
 
-Jakarta InaSAFE - Indonesia <a href="/pdfs/CFR_INDONESIA.pdf"><h4>CFR Indonesia 2014 Infographics PDF</h4></a>
+Jakarta InaSAFE - Indonesia <a href="/pdfs/CFR_INDONESIA.pdf">CFR Indonesia 2014 Infographics PDF</a>
 ---------
 This prototype framework of DaLA tools modifies the existing Indonesia Scenarios Assessment for Emergencies (InaSAFE)* to integrate basic features with different systems used by Jakarta’s Natural Disaster Mitigation Agency (BPBD) and automate the creation of DaLA data to estimate direct damage and losses incurred by flooding in Jakarta. Further technical development of JakSAFE continues.	
 				
