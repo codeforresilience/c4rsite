@@ -14,7 +14,7 @@ This project aims to develop an SMS-based system for pluviometer data collection
 
 Since 2014 Code for Resilience has connected civil society, governments, and technologists through events, mentorship, and code sprint activities to accelerate community’s resilience to natural disasters. 
 
-Stay tunned to find out more about our work in Togo and make sure to follow us in Twitter or contact us if you would like to be involved. 
+
 
 
 
